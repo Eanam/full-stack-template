@@ -81,3 +81,11 @@
 - [Taro](frontend/cross-platform/taro.md)：React/Vue/Nerv 多端小程序、H5 和 React Native 方案
 - [uni-app](frontend/cross-platform/uni-app.md)：Vue 驱动的 App、小程序、Web 和鸿蒙跨端框架
 - [Ionic Starters](frontend/cross-platform/ionic-starters.md)：Ionic CLI 官方 Angular/React/Vue Starter 集合
+
+### Frontend / Android 原生开发
+
+- [Android Architecture Templates](frontend/android-native/architecture-templates.md)：官方单模块和多模块 Kotlin/Compose 项目模板
+- [Now in Android](frontend/android-native/nowinandroid.md)：官方完整 Compose 应用和现代架构参考
+- [Jetpack Compose Samples](frontend/android-native/compose-samples.md)：官方 Compose UI 和组件样例集合
+- [Android Architecture Samples](frontend/android-native/architecture-samples.md)：官方架构模式对比样例
+- [Android Showcase](frontend/android-native/android-showcase.md)：社区生产级 Clean Architecture 和多模块工程参考
