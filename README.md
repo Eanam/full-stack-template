@@ -26,6 +26,8 @@
 │   └── cross-platform/
 │       ├── <repository-name>.md
 │       └── <another-repository>.md
+├── fullstack/
+│   └── <repository-name>.md
 ├── agent/
 │   └── <framework>/
 │       └── <repository-name>.md
@@ -97,3 +99,13 @@
 - [iOSKickstart](frontend/ios-native/ioskickstart.md)：可配置 Tab 数量和产品流程的 iOS App 生成器
 - [SwiftUI + TCA Template](frontend/ios-native/swiftui-tca-template.md)：SwiftUI、TCA 和本地 Swift Package 模块化模板
 - [NativeAppTemplate Free iOS](frontend/ios-native/native-app-template-free-ios.md)：带认证和 CRUD 流程的完整 SwiftUI 产品模板
+
+### Fullstack / 全栈开发
+
+- [create-t3-app](fullstack/create-t3-app.md)：可选模块的 Next.js 全栈类型安全 CLI
+- [Wasp](fullstack/wasp.md)：React、Node.js、Prisma 声明式全栈框架
+- [Cookiecutter Django](fullstack/cookiecutter-django.md)：生产级 Django 项目生成器
+- [Next.js Boilerplate](fullstack/next-js-boilerplate.md)：Next.js、TypeScript、Drizzle 和测试工程模板
+- [Nuxt](fullstack/nuxt.md)：Vue 全栈框架和官方 Starter
+- [RedwoodSDK](fullstack/redwood-sdk.md)：Cloudflare 上的 Server-first React 全栈框架
+- [Laravel Application Skeleton](fullstack/laravel.md)：Laravel 官方 PHP 全栈应用基础骨架
